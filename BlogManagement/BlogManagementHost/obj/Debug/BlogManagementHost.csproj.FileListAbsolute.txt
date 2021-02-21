@@ -1,0 +1,11 @@
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagementHost\bin\Debug\BlogManagementHost.exe.config
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagementHost\bin\Debug\BlogManagementHost.exe
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagementHost\bin\Debug\BlogManagementHost.pdb
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagementHost\bin\Debug\BlogManagement.dll
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagementHost\bin\Debug\BlogManagement.pdb
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagementHost\bin\Debug\BlogManagement.dll.config
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagementHost\obj\Debug\BlogManagementHost.csprojAssemblyReference.cache
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagementHost\obj\Debug\BlogManagementHost.csproj.CoreCompileInputs.cache
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagementHost\obj\Debug\BlogManagementHost.csproj.CopyComplete
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagementHost\obj\Debug\BlogManagementHost.exe
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagementHost\obj\Debug\BlogManagementHost.pdb

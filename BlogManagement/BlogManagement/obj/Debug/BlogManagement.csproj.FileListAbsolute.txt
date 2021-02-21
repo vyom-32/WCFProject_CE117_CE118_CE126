@@ -1,0 +1,7 @@
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagement\bin\Debug\BlogManagement.dll.config
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagement\bin\Debug\BlogManagement.dll
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagement\bin\Debug\BlogManagement.pdb
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagement\obj\Debug\BlogManagement.csprojAssemblyReference.cache
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagement\obj\Debug\BlogManagement.csproj.CoreCompileInputs.cache
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagement\obj\Debug\BlogManagement.dll
+E:\SOC-LAB-PRAC\project\BlogManagement\BlogManagement\obj\Debug\BlogManagement.pdb
